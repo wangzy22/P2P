@@ -107,7 +107,7 @@ bash tool/reproduce.sh ModelNet40 ConvNeXt-B-1k
 We provide pretrained P2P models:
 | Image Model      | ModelNet Acc.     | ScanObjectNN Acc. |
 | :--------------: | :---------------: | :---------------: |
-| HorNet-L-21k-mlp | 94.0 [[Google](https://drive.google.com/file/d/1AtQ3QcJpte1j-8-B1F7eqmxBv2Gn-zLl/view?usp=sharing)] | 89.3 [[Google](https://drive.google.com/file/d/1XwM3ry676fzkl-gOlg9NZGsGQV4UzLIO/view?usp=sharing)] |
+| HorNet-L-22k-mlp | 94.0 [[Google](https://drive.google.com/file/d/1AtQ3QcJpte1j-8-B1F7eqmxBv2Gn-zLl/view?usp=sharing)] | 89.3 [[Google](https://drive.google.com/file/d/1XwM3ry676fzkl-gOlg9NZGsGQV4UzLIO/view?usp=sharing)] |
 | ResNet-18        | 91.6 [[Google](https://drive.google.com/file/d/1ZqRq-lhHZzuYOpgFKzMkxZLg7d1qrymV/view?usp=sharing)] | 82.6 [[Google](https://drive.google.com/file/d/1blvRMHWaJBf7E2GAuFpJ5UmdZNFoihjk/view?usp=sharing)] |
 | ResNet-50        | 92.5 [[Google](https://drive.google.com/file/d/1-OovW8Jx37B4oqca7oYiecNDx_5jZPkb/view?usp=sharing)] | 85.8 [[Google](https://drive.google.com/file/d/1LBFFTqByITl6CrM_oFR92IZWat4zPuch/view?usp=sharing)] |
 | ResNet-101       | 93.1 [[Google](https://drive.google.com/file/d/17cHIrOydHaPFDMW8NrKnC-wTFXNWWQdp/view?usp=sharing)] | 87.4 [[Google](https://drive.google.com/file/d/1HmsGKPAfr7-BMO8aCbHkM8y9VWLd-F3c/view?usp=sharing)] |
