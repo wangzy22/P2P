@@ -12,7 +12,7 @@ BaseModel:
   mlp_dropout_ratio: 0.5
   obj_size: 224
   img_size: 224
-  checkpoint_path: ./pretrained/hornet_large_gf_ema_best.pth
+  checkpoint_path: ./pretrained/hornet_large_gf_in22k.pth
 
 Enc:
   local_size: 32
