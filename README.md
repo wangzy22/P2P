@@ -123,10 +123,11 @@ We provide pretrained P2P models:
 | Swin-B-1k        | 92.6 [[Google](https://drive.google.com/file/d/1GQ_H9M9rPi49DzRVou8tYo-ED1WUNRp9/view?usp=sharing)] | 84.6 [[Google](https://drive.google.com/file/d/1J4m8SP241To2wDo7h2oAfSYHDEb7iP1M/view?usp=sharing)] |
 
 
-Please organize the directory as the following structure:
+To train our P2P framework with HorNet-L-22k as the image model, please download the [pre-trained weight](https://cloud.tsinghua.edu.cn/f/8679b6acf63c41e285d9/?dl=1) from the official [HorNet](https://github.com/raoyongming/HorNet) repo. Please organize the directory as the following structure:
 ```
     P2P/
     |-- pretrained/
+        |-- hornet_large_gf_in22k.pth
         |-- reproduce/
             |-- ckpt/
                 |-- ModelNet40/
@@ -149,4 +150,4 @@ If you find our work useful in your research, please consider citing:
 
 ## Acknowledgements
 
-Our code is inspired by [BPNet](https://github.com/wbhu/BPNet) and [Point-BERT](https://github.com/lulutang0608/Point-BERT).
+Our code is inspired by [BPNet](https://github.com/wbhu/BPNet), [Point-BERT](https://github.com/lulutang0608/Point-BERT).
