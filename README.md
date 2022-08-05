@@ -145,7 +145,12 @@ To train our P2P framework with HorNet-L-22k as the image model, please download
 If you find our work useful in your research, please consider citing:
 
 ```
-
+@article{wang2022p2p,
+title={P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting},
+author={Wang, Ziyi and Yu, Xumin and Rao, Yongming and Zhou, Jie  and Lu, Jiwen},
+journal={arXiv preprint arXiv:2208.02812},
+year={2022}
+}
 ```
 
 ## Acknowledgements
