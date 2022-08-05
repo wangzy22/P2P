@@ -208,10 +208,12 @@ def test_cls(model, val_data_loader):
         preds = np.concatenate(preds)
         np.save(join(args.save_folder, 'gt.npy'), labels)
         np.save(join(args.save_folder, 'pred.npy'), preds)
-        avg_acc = metrics.accuracy_score(labels, preds) * 100
+        oAcc = metrics.accuracy_score(labels, preds) * 100
+        mAcc = metrics.balanced_accuracy_score(labels, preds) * 100
         
         if main_process():
-            print("Test avgAcc: ", avg_acc)
+            print("Test overall accuracy: ", oAcc)
+            print("Test mean accuracy: ", mAcc)
             
 
 if __name__ == '__main__':
