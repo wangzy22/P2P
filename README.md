@@ -3,7 +3,7 @@ Created by [Ziyi Wang*](https://wangzy22.github.io/), [Xumin Yu*](https://yuxumi
 
 This repository is an official implementation of P2P.
 
-[[arXiv](http://arxiv.org/abs/2208.02812)][[Project Page](http://p2p.ivg-research.xyz)]
+[[arXiv](http://arxiv.org/abs/2208.02812)][[Project Page](http://p2p.ivg-research.xyz)][[Models](https://github.com/wangzy22/P2P#quantitative-results)]
 
 ![intro](fig/p2p.png)
 
