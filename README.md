@@ -7,6 +7,8 @@ Created by [Ziyi Wang*](https://wangzy22.github.io/), [Xumin Yu*](https://yuxumi
 
 This repository is an official implementation of P2P.
 
+P2P is a framework to leverage pre-trained ***image*** models for ***3D analysis***. We transform point clouds into colorful images with newly proposed geometry-preserved projection and geometry-aware coloring to adapt to pre-trained image models, whose weights are kept frozen during the end-to-end optimization of point cloud understanding tasks. 
+
 [[arXiv](http://arxiv.org/abs/2208.02812)][[Project Page](http://p2p.ivg-research.xyz)][[Models](https://github.com/wangzy22/P2P#quantitative-results)]
 
 ![intro](fig/p2p.png)
