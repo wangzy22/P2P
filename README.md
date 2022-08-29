@@ -7,7 +7,7 @@ Created by [Ziyi Wang*](https://wangzy22.github.io/), [Xumin Yu*](https://yuxumi
 
 This repository is an official implementation of P2P.
 
-<div align=center>
+<div align=left>
 <img src='https://github.com/wangzy22/P2P/blob/master/fig/p2p.gif' width=340 height=200>
 </div>
 
