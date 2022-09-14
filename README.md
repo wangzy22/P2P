@@ -5,7 +5,7 @@
 Created by [Ziyi Wang*](https://wangzy22.github.io/), [Xumin Yu*](https://yuxumin.github.io/), [Yongming Rao*](https://raoyongming.github.io/), [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1), [Jiwen Lu](https://scholar.google.com/citations?user=TN8uDQoAAAAJ&hl=zh-CN)
 
 
-This repository is an official implementation of P2P.
+This repository is an official implementation of **P2P (NeurIPS 2022)**.
 
 <div align=left>
 <img src='https://github.com/wangzy22/P2P/blob/master/fig/p2p.gif' width=340 height=200>
